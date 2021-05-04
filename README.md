@@ -9,5 +9,5 @@ https://gitlab.com/jkk-web/tech-baito-web
 バックエンド
 https://gitlab.com/jkk-web/tech-baito-apiCancel changes
 
-#h1 なお，どちらもdevelopブランチが最新です．
+なお，どちらもdevelopブランチが最新です．
 また，DByaFirebasenoPasswordhasiyoudekinakusiteimasu

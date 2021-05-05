@@ -10,4 +10,4 @@ https://gitlab.com/jkk-web/tech-baito-web
 https://gitlab.com/jkk-web/tech-baito-apiCancel changes
 
 なお，どちらもdevelopブランチが最新です．
-また，DByaFirebasenoPasswordhasiyoudekinakusiteimasu
+また，DBやFirebaseのPasswordなどは現在使用できません

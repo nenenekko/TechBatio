@@ -14,7 +14,7 @@ GitHubに挙げている中では1番頑張った開発なので見て頂ける�
 https://gitlab.com/jkk-web/tech-baito-web
 
 バックエンド
-https://gitlab.com/jkk-web/tech-baito-apiCancel
+https://gitlab.com/jkk-web/tech-baito-api
 
 なお，どちらも**developブランチが最新**です．
 また，Developブランチからは削除してありますが，DBやFirebaseのPasswordなどは現在使用できません．
